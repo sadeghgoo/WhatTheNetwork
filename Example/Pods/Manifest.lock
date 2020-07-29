@@ -1,0 +1,16 @@
+PODS:
+  - WhatTheNetwork (0.1.0)
+
+DEPENDENCIES:
+  - WhatTheNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  WhatTheNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WhatTheNetwork: ca207d8cb7420abc140e921a804d52aa1ed9d3c7
+
+PODFILE CHECKSUM: a1b6436e2f4a47939b6fbf2cd7590b122ebda106
+
+COCOAPODS: 1.9.3

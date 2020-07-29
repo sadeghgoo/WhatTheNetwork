@@ -1,0 +1,6 @@
+framework module WhatTheNetwork {
+  umbrella header "WhatTheNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
