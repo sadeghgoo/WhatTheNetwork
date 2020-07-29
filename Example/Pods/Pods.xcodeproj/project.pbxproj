@@ -147,7 +147,7 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		72E90BCD24D156D500C419B8 /* Classes */ = {
+		72E90BD824D159E200C419B8 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				72E90BD324D156F100C419B8 /* HTTPResponseStatus.swift */,
@@ -161,7 +161,7 @@
 		8437455C2264670147441850E40000B7 /* WhatTheNetwork */ = {
 			isa = PBXGroup;
 			children = (
-				72E90BCD24D156D500C419B8 /* Classes */,
+				72E90BD824D159E200C419B8 /* Classes */,
 				F42FCAAE632778CDF2C5AFBE77909707 /* Pod */,
 				F3C9692B20C0FF72E810DDAC03DDBFFC /* Support Files */,
 			);
